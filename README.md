@@ -12,8 +12,7 @@ I will post every single update in the files (this is just README File), includi
 
 
 
-# Update 1.0 - Hello World!
-- Created a simple 'ping' command
-- Made server info commands
-- Created example text embed
+# Update 1.1 - Level 2!
 - n!help for help
+- Advanced Command Handler
+-(deleted most things)
