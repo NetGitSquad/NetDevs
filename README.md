@@ -4,9 +4,9 @@ I will post every single update in the files (this is just README File), includi
 
 
 # Associations
-- MongoDB Cloud(soon)
+- MongoDB Cloud(connected)
 - MongoDB Atlas(soon)
-- Redis(soon)
+- Redis(connected)
 - Commando(soon)
 - WOKCommands(soon)
 
