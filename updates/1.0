@@ -1,2 +1,5 @@
-Newbie News: n!help for help. More updates coming soon.
-Developer News: Associations Connecting Soon. Advanced Command Handler finished.
+Hello World Update.
+- Created server commands
+- Created example embed
+- Created simple 'ping' command
+- Ability to ban/kick users with commands
