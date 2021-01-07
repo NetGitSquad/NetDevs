@@ -1,0 +1,19 @@
+const path = require('path')
+const Commando = require('discord.js-commando')
+
+const client = new Commando.CommandoClient({
+  owner: '251120969320497152',
+  commandPrefix: config.prefix,
+})
+
+client.on('ready', async () => {
+  console.log('The client is ready!')
+
+  client.registry
+    .registerGroups([
+      ['misc', 'misc commands'],
+      ['moderation', 'moderation commands'],
+    ])
+    .registerDefaults()
+    .registerCommandsIn(path.join(__dirname, 'cmds'))
+    ])
