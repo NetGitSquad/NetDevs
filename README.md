@@ -8,4 +8,3 @@ I will post every single update in the files (this is just README File), includi
 - MongoDB Atlas(connected)
 - Redis(connected)
 - Commando(connected)
-- WOKCommands(soon)
